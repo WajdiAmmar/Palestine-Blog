@@ -1,0 +1,11 @@
+{
+    "name": "maram/ds2",
+    "autoload": {
+        "psr-4": {
+            "Maram\\Ds2\\": "src/"
+        }
+    },
+    "require": {
+        "twbs/bootstrap": "5.0.2"
+    }
+}
